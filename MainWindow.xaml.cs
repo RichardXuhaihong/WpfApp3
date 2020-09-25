@@ -79,6 +79,7 @@ namespace WpfApp3
         /// </summary>
         public Test()
         {
+            //TODO 测试
         }
 
         public static readonly DependencyProperty DataContextTypeProperty = DependencyProperty.RegisterAttached(
